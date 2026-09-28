@@ -1,7 +1,8 @@
 ### hello
 
-- **[netzprobe.de](https://github.com/chriopter/netzprobe.de)** · Simulate german grid fun at [netzprobe.de](https://netzprobe.de)
+- **[brumm](https://github.com/chriopter/brumm)** · Apple Music for Omarchy, in the terminal and the bar
 - **[omalux](https://github.com/chriopter/omalux)** · A nice photo processing tool for Omarchy
+- **[netzprobe.de](https://github.com/chriopter/netzprobe.de)** · Simulate german grid fun at [netzprobe.de](https://netzprobe.de)
 
 #### PlayStation Portable
 
