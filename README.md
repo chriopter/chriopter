@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/trommi"><img src="img/trommi.jpg" width="250" alt="Trommi"></a><br><a href="https://github.com/trommi"><b>Trommi</b></a><br>Chat and decisions for Claude Code sessions</td>
+<td align="center" valign="top"><a href="https://github.com/trommi"><img src="img/trommi.jpg" width="250" alt="Trommi"></a><br><a href="https://github.com/trommi"><b>Trommi</b></a><br>Orchestrate your Agents via Decisions</td>
 <td align="center" valign="top"><a href="https://github.com/chriopter/brumm"><img src="img/brumm.webp" width="250" alt="brumm"></a><br><a href="https://github.com/chriopter/brumm"><b>brumm</b></a><br>Apple Music for Omarchy</td>
 <td align="center" valign="top"><a href="https://github.com/chriopter/netzprobe.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/netzprobe-dark.webp"><img src="img/netzprobe-light.webp" width="250" alt="netzprobe.de"></picture></a><br><a href="https://github.com/chriopter/netzprobe.de"><b>netzprobe.de</b></a><br>Simulate the German grid</td>
 </tr>
