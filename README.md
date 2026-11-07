@@ -18,4 +18,4 @@
 </tr>
 </table>
 
-And more PSP: [Cathedral](https://github.com/chriopter/psp-cathedral) · [Graphics Demo](https://github.com/chriopter/psp-graphicsdemo) · [Rust Raytracer](https://github.com/chriopter/psp-rust-raytracer)
+And more PSP: [pspdx-shelf](https://github.com/chriopter/pspdx-shelf) · [Cathedral](https://github.com/chriopter/psp-cathedral) · [Graphics Demo](https://github.com/chriopter/psp-graphicsdemo) · [Rust Raytracer](https://github.com/chriopter/psp-rust-raytracer)
