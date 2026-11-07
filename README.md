@@ -12,10 +12,10 @@
 
 <table>
 <tr>
-<td align="center" valign="top"><a href="https://github.com/chriopter/pspdx-app"><img src="img/psp-pspdx.png" width="250" alt="PSPDX App"></a><br><a href="https://github.com/chriopter/pspdx-app"><b>PSPDX App</b></a><br>Installs and updates homebrew via WiFi<br><a href="https://github.com/chriopter/pspdx">Standard</a> · <a href="https://github.com/chriopter/pspdx-catalog">Catalog</a></td>
+<td align="center" valign="top"><a href="https://github.com/chriopter/pspdx-app"><img src="img/psp-pspdx.png" width="250" alt="PSPDX App"></a><br><a href="https://github.com/chriopter/pspdx-app"><b>PSPDX App</b></a><br>Installs and updates homebrew via WiFi<br><a href="https://github.com/chriopter/pspdx">Standard</a> · <a href="https://github.com/chriopter/pspdx-catalog">Catalog</a> · <a href="https://github.com/chriopter/pspdx-shelf">Shelf</a></td>
 <td align="center" valign="top"><a href="https://github.com/chriopter/pspkit-https"><img src="img/psp-pspkit.png" width="250" alt="pspkit"></a><br><b>pspkit</b><br>Modules for PSP development<br><a href="https://github.com/chriopter/pspkit-https">HTTPS</a> · Modern TLS<br><a href="https://github.com/chriopter/pspkit-usbnet">USBNET</a> · USB Networking<br><a href="https://github.com/chriopter/pspkit-autoboot">AUTOBOOT</a> · Fully Closed Loop</td>
 <td align="center" valign="top"><a href="https://github.com/chriopter/psp-tuxracer"><img src="img/psp-tuxracer.png" width="250" alt="Tux Racer"></a><br><a href="https://github.com/chriopter/psp-tuxracer"><b>Tux Racer</b></a><br>Port of Extreme Tux Racer</td>
 </tr>
 </table>
 
-And more PSP: [pspdx-shelf](https://github.com/chriopter/pspdx-shelf) · [Cathedral](https://github.com/chriopter/psp-cathedral) · [Graphics Demo](https://github.com/chriopter/psp-graphicsdemo) · [Rust Raytracer](https://github.com/chriopter/psp-rust-raytracer)
+And more PSP: [Cathedral](https://github.com/chriopter/psp-cathedral) · [Graphics Demo](https://github.com/chriopter/psp-graphicsdemo) · [Rust Raytracer](https://github.com/chriopter/psp-rust-raytracer)
