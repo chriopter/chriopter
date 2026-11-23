@@ -2,6 +2,7 @@
 
 <table>
 <tr>
+<td align="center" valign="top"><a href="https://github.com/YoAgain/yo"><img src="img/yo.webp" width="250" alt="Yo"></a><br><a href="https://github.com/YoAgain/yo"><b>Yo</b></a><br>Resurrecting Yo</td>
 <td align="center" valign="top"><a href="https://github.com/chriopter/brumm"><img src="img/brumm.webp" width="250" alt="brumm"></a><br><a href="https://github.com/chriopter/brumm"><b>brumm</b></a><br>Apple Music for Omarchy</td>
 <td align="center" valign="top"><a href="https://github.com/chriopter/netzprobe.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/netzprobe-dark.webp"><img src="img/netzprobe-light.webp" width="250" alt="netzprobe.de"></picture></a><br><a href="https://github.com/chriopter/netzprobe.de"><b>netzprobe.de</b></a><br>Simulate the German grid</td>
 </tr>
